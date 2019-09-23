@@ -1,2 +1,2 @@
 # my-blog
-use hugo as my blog
+Using hugo as my blog
