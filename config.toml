@@ -1,0 +1,6 @@
+baseURL = "/"
+languageCode = "zh-cn"
+title = "My New Hugo Site"
+theme = "hyde"
+[params]
+themeColor = "theme-base-08"
